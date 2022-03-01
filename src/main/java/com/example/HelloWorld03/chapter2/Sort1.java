@@ -1,4 +1,4 @@
-package com.example.HelloWorld03;
+package com.example.HelloWorld03.chapter2;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package com.example.HelloWorld03;
+package com.example.HelloWorld03.chapter1;
 
 import java.util.ArrayList;
 import java.util.List;

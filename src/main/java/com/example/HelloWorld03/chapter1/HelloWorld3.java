@@ -1,4 +1,4 @@
-package com.example.HelloWorld03;
+package com.example.HelloWorld03.chapter1;
 
 public class HelloWorld3 {
     public static void main(String[] args) {
